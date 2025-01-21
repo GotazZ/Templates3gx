@@ -9,11 +9,11 @@
 
 namespace CTRPluginFramework
 {
-    #define Title ToggleDrawMode(Render::BOLD) << "Yo-Kai Watch Blasters Server Online Plugin"
+    #define Title ToggleDrawMode(Render::BOLD) << "Templates for CTRPFCreator"
     #define Major 1
     #define Minor 0
     #define Revision 1
-    #define Description ""
+    #define Description "Templates for CTRPFCreator"
 
     static void ToggleTouchscreenForceOn(void)
     {
